@@ -1,3 +1,3 @@
-[submodule "/Users/nbchk/dotfiles/zsh/script/antigen"]
-	path = /Users/nbchk/dotfiles/zsh/script/antigen
+[submodule "zsh/script/antigen"]
+	path = zsh/script/antigen
 	url = https://github.com/zsh-users/antigen.git
